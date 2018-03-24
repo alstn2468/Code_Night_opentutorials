@@ -1,3 +1,5 @@
-# Code_Night_opentutorials
-
-코딩야학 2기 수업 최종본
+코딩 야학 2기
+=============
+수업 최종본<br>
+<https://code-night.ga>
+-----------
